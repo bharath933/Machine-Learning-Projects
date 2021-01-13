@@ -1,5 +1,5 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks(.py files availble up on request).
-
+for visual portifolio visit - https://bharatkaparapu4.wixsite.com/bharatkumarkaparapu
 Contents:
 
 Machine Learning:
